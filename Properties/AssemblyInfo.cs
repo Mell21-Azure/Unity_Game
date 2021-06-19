@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("AzureGameTestObstacle")]
+[assembly: AssemblyTitle("AzureCloudGame")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("AzureGameTestObstacle")]
+[assembly: AssemblyProduct("AzureCloudGame")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("8ce5f061-7816-4539-9320-2a6670954e5a")]
+[assembly: Guid("b343a6f5-09c3-4dfc-b573-87783d1652b4")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
